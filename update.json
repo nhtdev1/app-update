@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.0.dev.99",
+  "latestVersionCode": "2",
+  "url": "https://github.com/nhtdev1/app-update/releases/download/1.0.dev.99/app-development-release.apk",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
+}
